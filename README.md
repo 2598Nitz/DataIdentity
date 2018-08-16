@@ -1,1 +1,1 @@
-# DataIdentity
+Building a predictive model after analyzing and visualizing data.                                                         DataIdentity.ipynb and DataSupremacy.ipynb are predictive model python codes for hackathon organized by Analytics Vidhya.
